@@ -1,5 +1,7 @@
 #pragma once
 
+#include <array>
+
 struct UserSettings final
 {
 	// Application
