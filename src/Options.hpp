@@ -31,7 +31,6 @@ public:
 	// Renderer options.
 	uint32_t Samples{};
 	uint32_t Bounces{};
-	bool DefaultBounces{};
 	uint32_t MaxSamples{};
 
 	// Window options
